@@ -5,18 +5,25 @@
  */
 package parcialpoo;
 
+import java.util.ArrayList;
+
 /**
  *
  * @author Daniel Alejandro Orozco Orellana <00200617@uca.edu.sv>
  */
-public class Huesped{ //extends Tarjeta{
+public class Huesped { //extends Tarjeta{
+
     public String contacto;
     private int idHuesped;
 
-    public Huesped(){
+    //private ArrayList<> estudiantes;
 
+    public Huesped() {
+       // estudiantes = new ArrayList<>();
     }
 
+    public void obtenerContacto() {
 
+    }
 
 }
